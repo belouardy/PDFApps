@@ -1,0 +1,5 @@
+com\example\items\PdfItemReader.class
+com\example\items\PdfItemWriter.class
+com\example\Main.class
+com\example\MyConfig.class
+com\example\items\PdfItemProcessor.class
